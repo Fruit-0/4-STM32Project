@@ -1,0 +1,53 @@
+<component name="libraryTable">
+  <library name="3-studyDemo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-20-温度值OLED屏显示程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-40-MPU6050原始数据显示程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-10-USART串口控制程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-30-模拟摇杆ADC读取程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-33-U盘插拔测试程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-19-温度传感器数码管显示程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-48-芯片ID读取程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-18-旋转编码器数码管显示程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-47-CRC功能测试程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-15-按键双击和长按程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-29-光敏和电位器ADC读取程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-34-U盘读写文件程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-14-触摸按键驱动程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-44-独立看门狗测试程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-4-按键控制LED程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-17-数码管RTC显示程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-23-按键控制步进电机程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-32-MP3语音播报程序（含杜洋录制语音文件）.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-35-阵列键盘测试程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-25-RS232通信测试程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-7-MIDI音乐播放程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-27-CAN通信测试程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-26-RS485通信测试程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-42-停机模式测试程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-24-步进电机步数控制程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-12-LED灯显示RTC走时程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-22-按键控制继电器程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-8-USART串口发送程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-31-MP3播放测试程序（含音乐文件）.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-13-超级终端显示日历程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-16-触摸按键滑动程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-39-DHT11温湿度显示程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-11-超级终端串口控制程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-46-定时器中断测试程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-6-蜂鸣器驱动程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-28-光敏电阻ADC读取程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-36-键盘中断测试程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-5-FLASH读写程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-9-USART串口接收程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-21-OLED屏汉字与图片显示程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-37-延时函数驱动舵机程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-41-睡眠模式测试程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-43-待机模式测试程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-45-窗口看门狗测试程序.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-studyDemo/1-2-38-PWM驱动舵机程序.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
